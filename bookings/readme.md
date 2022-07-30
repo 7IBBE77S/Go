@@ -1,4 +1,4 @@
-#Simple Web app
+###Simple Web app
 ***
 Repo for booking and reservation app
 ---
