@@ -24,6 +24,7 @@ func NewRepo(a *config.AppConfig) *Repository {
 // NewHandler sets the repository for the handlers
 func NewHandler(r *Repository) {
 	Repo = r
+	
 }
 
 //Home is the about page handler

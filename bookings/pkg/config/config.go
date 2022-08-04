@@ -8,6 +8,7 @@ import (
 )
 //TODO: REMOVE 3RD PARTY PACKAGES AND REPLACE WITH OWN CODE!
 // AppConfig is the application configuration
+
 type AppConfig struct {
 	UseCache bool
 	TemplateCache map[string]*template.Template

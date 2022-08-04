@@ -1,6 +1,6 @@
 module github.com/7IBBE77S/web-app
 
-go 1.18
+go 1.19
 
 //web app version 0.5.0
 
