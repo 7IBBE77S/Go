@@ -1,5 +1,5 @@
 package main
-
+// go run cmd/web/*.go to run the app
 import (
 	"bufio"
 	"fmt"
