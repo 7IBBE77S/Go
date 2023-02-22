@@ -1,6 +1,4 @@
-##Simple Web app
-***
-Repo for booking and reservation app
+Go web app
 ---
 - Run command: go run cmd/web/*.go
 - Built with Go version 1.19
