@@ -1,0 +1,22 @@
+
+
+html, body {
+height: 100%;
+margin: 0;
+}
+/* .content {
+padding: 20px;
+min-height: 100%;
+margin: 0 auto -50px;
+} */
+.footer,
+.push {
+height: 50px;
+}
+
+.whitmb{
+   margin-bottom: .25rem !important
+}
+.footerfs{
+    font-size: 13px;
+}
